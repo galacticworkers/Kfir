@@ -1,3 +1,3 @@
-# Kfir
-Kfir Dos Toll
-in linux type python3 Kfir.py
+# b2
+b2 spirit Dos Toll
+in linux type python3 b2.py
